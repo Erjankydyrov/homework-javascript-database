@@ -15,3 +15,5 @@ tr.append(th1);
 tr.append(th2);
 tr.append(th3);
 tr.append(th4);
+document.body.append(table);
+
