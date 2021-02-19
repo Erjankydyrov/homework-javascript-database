@@ -22,5 +22,7 @@ fetch('./data.json')
         return response.json();
     })
     .then(function(json){
-    
+    for (const key in json) {
+        
+    }
 });    
