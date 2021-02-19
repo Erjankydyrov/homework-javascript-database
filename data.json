@@ -1,3 +1,4 @@
 [
-    {"id": 1, "company": "Blizzard", "games": 8, "pop": "WoW"}
+    {"id": 1, "company": "Blizzard", "games": 8, "pop": "WoW"},
+    {"id": 2, "company": "Riot", "games": 5, "pop": "WIld Rift"}
 ]
