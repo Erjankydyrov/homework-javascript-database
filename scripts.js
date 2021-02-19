@@ -32,6 +32,8 @@ fetch('./data.json')
         td1.innerText = json[key].id;
         td2.innerText = json[key].company;
         td3.innerText = json[key].games;
+        td4.innerText = json[key].pop;
+        
         
     }
 });    
