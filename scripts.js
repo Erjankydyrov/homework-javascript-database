@@ -29,6 +29,7 @@ fetch('./data.json')
         let td3 = document.createElement('td');
         let td4 = document.createElement('td');
             
+        td1.innerText = json[key].id;
         
     }
 });    
