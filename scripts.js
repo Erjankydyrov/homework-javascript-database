@@ -35,6 +35,7 @@ fetch('./data.json')
         td4.innerText = json[key].pop;
         
         tr.append(td1);
+        tr.append(td2);
         
     }
 });    
