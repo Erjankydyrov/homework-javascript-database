@@ -37,6 +37,6 @@ fetch('./data.json')
         tr.append(td1);
         tr.append(td2);
         tr.append(td3);
-        
+        tr.append(td4);
     }
 });    
