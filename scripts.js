@@ -24,6 +24,7 @@ fetch('./data.json')
     .then(function(json){
     for (const key in json) {
         let tr = document.createElement('tr');
+        let td1 = document.createElement('td');
         
     }
 });    
