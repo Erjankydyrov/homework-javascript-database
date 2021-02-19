@@ -11,3 +11,4 @@ th3.innerText = "Games";
 th4.innerText = "Pop-games";
 
 table.append(tr);
+tr.append(th1);
