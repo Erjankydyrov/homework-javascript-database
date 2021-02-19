@@ -34,6 +34,7 @@ fetch('./data.json')
         td3.innerText = json[key].games;
         td4.innerText = json[key].pop;
         
+        tr.append(td1);
         
     }
 });    
