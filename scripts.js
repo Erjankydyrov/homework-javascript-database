@@ -30,6 +30,7 @@ fetch('./data.json')
         let td4 = document.createElement('td');
             
         td1.innerText = json[key].id;
+        td2.innerText = json[key].company;
         
     }
 });    
