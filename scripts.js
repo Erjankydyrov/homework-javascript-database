@@ -18,5 +18,7 @@ tr.append(th4);
 document.body.append(table);
 
 fetch('./data.json')
-    
+    .then(function(response){
+        return response.json();
+    })
 });    
